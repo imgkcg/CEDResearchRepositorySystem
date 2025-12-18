@@ -1,0 +1,16 @@
+Philippines is one of the agricultural countries in east Asia with decreasing
+turnover rate in terms of farmer’s profession resulting to increase of imports from
+neighboring countries to fill the gap in food production. Traditional planting is time,
+effort and money consuming due to time spent in the field and materials like fertilizers
+and pesticides to protect crop’s growth. In comparison to hydroponics, soil culture is
+mostly based on land which is why there are a tangible amount of factors that
+influences its growth. Hydroponics is used widely but mostly not on rural areas where
+farming is a way of living and solely rely on the traditional way of growing plants.
+Plants grown on land are most susceptible to diseases and pest. Unpredictable weather
+is also an influential factor in plants that could present the surrounding conditions with
+extreme heat that evaporates moisture or extreme rainfall that drowns plants. The
+purpose of the study is to create an automated hydroponics equipment structure
+capable of sustaining plant growth through calibrating the surrounding conditions
+while isolating the crops from external factors such as diseases and pest. Equipped
+with sensors that serves as foot stool for regulating environmental factors, it also
+ensures transmission and recording of data via IOT in websites for further analysis
